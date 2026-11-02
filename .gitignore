@@ -1,0 +1,12 @@
+# Entorno y caché de Python
+.venv/
+__pycache__/
+
+# Resultado de empaquetar (PyInstaller / Inno Setup)
+build/
+dist/
+instalador/
+
+# Música descargada y archivos comprimidos
+descargas/
+*.zip
